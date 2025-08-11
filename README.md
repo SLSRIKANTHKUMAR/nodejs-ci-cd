@@ -1,4 +1,4 @@
-# 🚀 Node.js CI/CD Pipeline with GitHub Actions and Docker
+# 🚀 Automated CI/CD Pipeline for Node.js Application using GitHub Actions & Docker 
 
 This project demonstrates a complete CI/CD pipeline setup using **GitHub Actions**, **Docker**, and **Docker Hub** to automate the build and deployment process of a simple Node.js web application.
 
